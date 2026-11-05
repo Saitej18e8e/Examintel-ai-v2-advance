@@ -1,0 +1,9 @@
+streamlit>=1.40
+google-genai>=1.0
+pydantic>=2.6
+plotly>=5.20
+python-docx
+reportlab
+pdfplumber
+python-dotenv
+pytest
